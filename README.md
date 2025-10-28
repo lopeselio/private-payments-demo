@@ -8,7 +8,7 @@ A simple payment app that works on Solana with Private Ephemeral Rollup (PER).
   - [Summary](#summary)
   - [How it works](#how-it-works)
     - [Private Ephemeral Rollup](#private-ephemeral-rollup)
-    - [How do private transfers work on PER?](#how-do-private-transfers-work-on-PER?)
+    - [How do private transfers work on PER?](#how-do-private-transfers-work-on-per)
   - [Payments provider use-case](#payments-provider-use-case)
   - [Running the demo](#running-the-demo)
     - [Installation](#installation)
